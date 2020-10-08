@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="118572" started-at="2020-09-28T18:24:05 PKT" finished-at="2020-09-28T18:26:04 PKT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="118572" started-at="2020-09-28T18:24:05 PKT" finished-at="2020-09-28T18:26:04 PKT">
+      <class name="avien_e.avien_e.NewTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:avien_e.avien_e.NewTest@2473b9ce]" name="setup" is-config="true" duration-ms="20390" started-at="2020-09-28T18:24:05 PKT" finished-at="2020-09-28T18:24:25 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TU_Registration()[pri:1, instance:avien_e.avien_e.NewTest@2473b9ce]" name="TU_Registration" duration-ms="51875" started-at="2020-09-28T18:24:25 PKT" finished-at="2020-09-28T18:25:17 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TU_Registration -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:avien_e.avien_e.NewTest@2473b9ce]" name="teardown" is-config="true" duration-ms="1228" started-at="2020-09-28T18:25:17 PKT" finished-at="2020-09-28T18:25:19 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:avien_e.avien_e.NewTest@2473b9ce]" name="setup" is-config="true" duration-ms="21196" started-at="2020-09-28T18:25:19 PKT" finished-at="2020-09-28T18:25:40 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validation()[pri:2, instance:avien_e.avien_e.NewTest@2473b9ce]" name="validation" duration-ms="35" started-at="2020-09-28T18:25:40 PKT" finished-at="2020-09-28T18:25:40 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:avien_e.avien_e.NewTest@2473b9ce]" name="teardown" is-config="true" duration-ms="892" started-at="2020-09-28T18:25:40 PKT" finished-at="2020-09-28T18:25:41 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:avien_e.avien_e.NewTest@2473b9ce]" name="setup" is-config="true" duration-ms="21926" started-at="2020-09-28T18:25:41 PKT" finished-at="2020-09-28T18:26:03 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="StartMatching()[pri:3, instance:avien_e.avien_e.NewTest@2473b9ce]" name="StartMatching" duration-ms="55" started-at="2020-09-28T18:26:03 PKT" finished-at="2020-09-28T18:26:03 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartMatching -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:avien_e.avien_e.NewTest@2473b9ce]" name="teardown" is-config="true" duration-ms="936" started-at="2020-09-28T18:26:03 PKT" finished-at="2020-09-28T18:26:04 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- avien_e.avien_e.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
